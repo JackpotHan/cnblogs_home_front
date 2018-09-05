@@ -11,6 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="http://www.cnblogs.com/JackpotHan" target="_blank">:point_right: 点击访问本人博客园博客</a>
+  <a href="http://www.cnblogs.com/JackpotHan" target="_blank">:point_right: 点击访问本人博客园</a>
 </p>
 
