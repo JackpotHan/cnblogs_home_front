@@ -1,4 +1,4 @@
-效果展示地址：https://runjs.cn/code/nbx0ghnc
+借鉴自：https://www.cnblogs.com/xiaohuochai/p/6368039.html
 核心代码：
     <script>
         var digit=
