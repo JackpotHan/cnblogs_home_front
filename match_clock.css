@@ -1,0 +1,38 @@
+#match {
+	transform: scale(0.5);
+}
+.match-clock {
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	margin: 15px;
+	background: transparent;
+}
+.match-part {
+	position: absolute;
+	background-repeat: no-repeat;
+	transition: all 240ms linear;
+}
+.match-part.hidden {
+	animation-name: disappear;
+	animation-duration: 300ms;
+	animation-timing-function: linear;
+}
+.match-part.match-row.hidden {
+	transform: rotateY(90deg);
+}
+.match-part.match-col.hidden {
+	transform: rotateX(90deg);
+}
+
+@keyframes disappear {
+	0% {
+		opacity: 1;
+	}
+	80% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+	}
+}

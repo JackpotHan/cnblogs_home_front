@@ -1,0 +1,2 @@
+<!-- 公告栏时钟控件 -->
+<embed wmode="transparent" src="https://files.cnblogs.com/files/JackpotHan/honehone_clock_tr.swf" quality="high" bgcolor="#FDF6E3" width="240" height="110" name="honehoneclock" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
