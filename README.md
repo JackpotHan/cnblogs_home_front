@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.cnblogs.com/files/JackpotHan/2018-09-05_143523.bmp" alt="Blog" width="640">
+  <img src="../homeShown.png" alt="Blog" width="640">
 </p>
 
 <p align="center">
